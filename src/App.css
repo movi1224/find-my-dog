@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Main{
+  margin: auto;
+}
+
+.Display{
+  max-width: 90vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
